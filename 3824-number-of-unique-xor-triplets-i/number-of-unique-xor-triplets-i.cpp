@@ -1,4 +1,4 @@
-class Solution{
+ class Solution{
     public:
     int uniqueXorTriplets(vector<int>& nums){
         size_t n = nums.size();
